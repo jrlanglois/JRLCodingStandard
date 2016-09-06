@@ -91,8 +91,20 @@ If a group of lines are too long, it may indicate a higher-order breakdown; by s
 
 ## General Formatting
 
-* All identifiers are to be `PascalCase`, except variables and functions
-* Variables and functions are to be `CamelCase`
+Variables, functions and enumeration values are to be `camelCase`. All others are to be `PascalCase`.
+```
+enum MyEnumeration
+{
+    valueA,
+    valueB
+};
+
+class Foo
+{
+public:
+    void bar();
+};
+```
 
 ## Parentheses
 
