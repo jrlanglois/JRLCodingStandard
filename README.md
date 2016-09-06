@@ -2,7 +2,7 @@
 
 A place describing my personal coding standard in detail... perhaps in more detail than most would care about!
 
-Note that the coding standard may be C/C++ biased, but I intend to have it generalised enough to apply to any C-like language.
+Note that the coding standard may be C/C++ biased, but I intend to have it generalised enough to apply to any C-influenced language.
 
 # Influences
 
