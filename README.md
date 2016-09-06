@@ -43,7 +43,7 @@ To allow for my particular formatting and placement styles, and enforcing consis
 
 ## Braces
 
-[Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style)
+[Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style), where braces are on a separate line.
 
 ```
 int foo()
