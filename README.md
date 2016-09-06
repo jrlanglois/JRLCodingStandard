@@ -31,6 +31,17 @@ Comments and code must be written using [Canadian English](https://en.wikipedia.
 * _travelling_ instead of _traveling_
 * _grey_ instead of _gray_
 
+# Documentation
+
+Use [Doxygen](https://www.stack.nl/~dimitri/doxygen/manual/commands.html), with the `@` symbol for commands.
+
+Do not redundantly specify default commands. Example:
+
+```
+/** @brief Does stuff and things */
+void foo();
+```
+
 # General Whitespace
 
 ## Tabs vs Spaces
