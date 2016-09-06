@@ -73,7 +73,7 @@ The goal is to have all of the precious text you spend your valuable time on loo
 
 I am not a real fan of such a limit, but I do prefer keeping code within a half-window's space in an HD resolution view (as I typically have two code files open side-by-side).
 
-If a group of lines are too long, it may indicate a higher-order breakdown; either by splitting the code into multiple lines, or even multiple functions!
+If a group of lines are too long, it may indicate a higher-order breakdown; by splitting the code into multiple lines,  even multiple functions, etc...
 
 ## Parentheses
 
