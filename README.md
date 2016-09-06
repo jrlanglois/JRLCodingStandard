@@ -35,10 +35,11 @@ Comments and code must be written using [Canadian English](https://en.wikipedia.
 
 Use [Doxygen](https://www.stack.nl/~dimitri/doxygen/manual/commands.html), with the `@` symbol for commands.
 
-Do not redundantly specify default commands. Example:
+Do not redundantly specify default commands.
 
+For example, do this to automatically make use of `@brief`:
 ```
-/** @brief Does stuff and things */
+/** Does stuff and things */
 void foo();
 ```
 
