@@ -14,7 +14,7 @@ For all compilers, old and new, comments and code must be written in [ASCII](htt
 
 ### Reasoning 
 
-You definitely don't want to pick up source code and have to port it to an old compiler, only to have the pleasant waste of time of fixing encoding.
+You definitely don't want to pick up source code and have to port it to an old compiler, only to waste of time fixing encoding.
 
 ## Spelling
 
