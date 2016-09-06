@@ -10,7 +10,7 @@ A place describing my personal coding standard in detail... perhaps in more deta
 
 ## Encoding
 
-Seeing that the code is intended to be used with all compilers, old and new, the code must be written in [ASCII](https://en.wikipedia.org/wiki/ASCII). There is no guarantee that a compiler will work fine with just any code page - some even throw warnings (e.g.: [Microsoft Visual Studio C4819](https://msdn.microsoft.com/en-us/library/ms173715.aspx))!
+Seeing that the code is intended to be used with all compilers, old and new, comments and code must be written in [ASCII](https://en.wikipedia.org/wiki/ASCII). There is no guarantee that a compiler will work fine with just any code page - some even throw warnings (e.g.: [Microsoft Visual Studio C4819](https://msdn.microsoft.com/en-us/library/ms173715.aspx))!
 
 ## Spelling
 
