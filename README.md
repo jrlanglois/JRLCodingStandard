@@ -14,7 +14,7 @@ Seeing that the code is intended to be used with all compilers, old and new, com
 
 ## Spelling
 
-Code must be written using [Canadian English](https://en.wikipedia.org/wiki/Canadian_English), favouring the British side of spelling.
+Comments and code must be written using [Canadian English](https://en.wikipedia.org/wiki/Canadian_English), favouring the British side of spelling.
 
 ### Suffixes
 
