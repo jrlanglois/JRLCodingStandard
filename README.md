@@ -65,7 +65,7 @@ You're throwing out consistent formatting when you bank on word wrapping, and ma
 
 ## Column Limitation
 
-I am not a real fan of such a limit, but I do prefer keeping code within a half-window's space in an HD resolution (as I typically have two code files open side-by-side).
+I am not a real fan of such a limit, but I do prefer keeping code within a half-window's space in an HD resolution view (as I typically have two code files open side-by-side).
 
 If a group of lines are too long, it may indicate a higher-order breakdown; either by splitting the code into multiple lines, or even multiple functions!
 
