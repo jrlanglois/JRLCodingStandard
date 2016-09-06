@@ -32,7 +32,7 @@ Code must be written using [Canadian English](https://en.wikipedia.org/wiki/Cana
 * **No tabs**. Use 4 spaces
 * Braces are [Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style)
 
-## Parenthese
+## Parentheses
 
 Insert a single space before an open parenthesis, unless the pair of parentheses are empty.
 ```
