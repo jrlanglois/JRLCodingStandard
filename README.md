@@ -22,7 +22,7 @@ Comments and code must be written using [Canadian English](https://en.wikipedia.
 * `-ise` as in _vectorise_, instead of _vectorize_
 * `-tre` as in _centre_, instead of _center_
 
-### Other Misc. Word Examples
+### Other Miscellaneous Word Examples
 
 * _travelling_ instead of _traveling_
 * _grey_ instead of _gray_
