@@ -53,6 +53,16 @@ int foo()
 }
 ```
 
+## Word Wrapping
+
+No - just no. Disable it in your editor. You are a hacker and actually hate consistent formatting when you bank on that feature.
+
+## Column Limitation
+
+I am not a real fan of such a limit, but I do prefer keeping code within a half-window's space in an HD resolution (as I typically have two code files open side-by-side).
+
+If a group of lines are too long, it may indicate a higher-order breakdown; either by splitting the code into multiple lines, or even multiple functions!
+
 ## Parentheses
 
 Insert a single space before an open parenthesis, unless the pair of parentheses are empty.
