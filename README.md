@@ -92,7 +92,7 @@ If a group of lines are too long, it may indicate a higher-order breakdown; by s
 
 ## General Formatting
 
-Variables, functions and enumeration values are to be `camelCase`. All other identifiers are to be formatting in `PascalCase`.
+Variables, functions and enumerator definitions are to be `camelCase`. All other identifiers are to be formatted in `PascalCase`.
 ```
 enum MyEnumeration
 {
