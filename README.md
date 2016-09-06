@@ -29,8 +29,15 @@ Comments and code must be written using [Canadian English](https://en.wikipedia.
 
 # General Whitespace
 
-* **No tabs**. Use 4 spaces
-* Braces are [Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style)
+## Tabs vs Spaces
+
+It's simple: **no tabs**. Instead, use 4 spaces.
+
+The reasoning is to merely allow my particular formatting and placement styles.
+
+## Braces
+
+[Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style)
 
 ## Parentheses
 
