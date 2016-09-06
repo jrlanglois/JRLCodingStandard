@@ -57,9 +57,13 @@ int foo()
 
 ## Word Wrapping
 
-_No_ - seriously, **no**. Disable it in your editor - you are careless if you don't.
+_No_ - seriously, **no**. Disable it in your editor - you're careless if you don't.
+
+### Reasoning
 
 You're throwing out consistent formatting when you bank on word wrapping, and make it difficult for others to read your code if they do not use that feature.
+
+The goal is to have all of the precious text you spend your valuable time on looking the exact same, no matter where you bring it.
 
 ## Column Limitation
 
