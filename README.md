@@ -53,7 +53,7 @@ It's simple: **no tabs**. Instead, use 4 spaces.
 
 ### Reasoning 
 
-To allow for my particular formatting and placement styles, and enforcing consistency across all software.
+To allow for my particular formatting and placement styles, and enforcing consistency across all text editors and IDEs.
 
 ## Braces
 
