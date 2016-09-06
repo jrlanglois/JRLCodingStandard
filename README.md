@@ -12,7 +12,9 @@ A place describing my personal coding standard in detail... perhaps in more deta
 
 For all compilers, old and new, comments and code must be written in [ASCII](https://en.wikipedia.org/wiki/ASCII). There is no guarantee that a compiler will work fine with just any code page - some even throw warnings (e.g.: [Microsoft Visual Studio C4819](https://msdn.microsoft.com/en-us/library/ms173715.aspx))!
 
-Put it this way: you definitely don't want to pick up source code and have to port it to an old compiler, only to have the pleasant waste of time of fixing encoding.
+### Reasoning 
+
+You definitely don't want to pick up source code and have to port it to an old compiler, only to have the pleasant waste of time of fixing encoding.
 
 ## Spelling
 
@@ -35,7 +37,9 @@ Comments and code must be written using [Canadian English](https://en.wikipedia.
 
 It's simple: **no tabs**. Instead, use 4 spaces.
 
-The reasoning is to merely allow my particular formatting and placement styles.
+### Reasoning 
+
+To allow for my particular formatting and placement styles, and enforcing consistency across all software.
 
 ## Braces
 
@@ -57,7 +61,7 @@ int foo()
 
 ## Word Wrapping
 
-_No_ - seriously, **no**. Disable it in your editor - you're careless if you don't.
+_No_ - seriously, **no**. Disable it in your editor.
 
 ### Reasoning
 
