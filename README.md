@@ -39,6 +39,20 @@ The reasoning is to merely allow my particular formatting and placement styles.
 
 [Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style)
 
+```
+int foo()
+{
+    if (somethingHappened())
+    {
+        static int foo = 0;
+        ++foo;
+        return foo;
+    }
+
+    return 0;
+}
+```
+
 ## Parentheses
 
 Insert a single space before an open parenthesis, unless the pair of parentheses are empty.
