@@ -10,8 +10,6 @@ A place describing my personal coding standard in detail... perhaps in more deta
 
 ## Encoding
 
-Seeing that the source code you are working on is important enough to warrant your time - intend it to be cross-platform.
-
 For all compilers, old and new, comments and code must be written in [ASCII](https://en.wikipedia.org/wiki/ASCII). There is no guarantee that a compiler will work fine with just any code page - some even throw warnings (e.g.: [Microsoft Visual Studio C4819](https://msdn.microsoft.com/en-us/library/ms173715.aspx))!
 
 Put it this way: you definitely don't want to pick up source code and have to port it to an old compiler, only to have the pleasant waste of time of fixing encoding.
