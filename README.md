@@ -89,6 +89,11 @@ I am not a real fan of such a limit, but I do prefer keeping code within a half-
 
 If a group of lines are too long, it may indicate a higher-order breakdown; by splitting the code into multiple lines,   multiple functions, etc...
 
+## General Formatting
+
+* All identifiers are to be `PascalCase`, except variables and functions
+* Variables and functions are to be `CamelCase`
+
 ## Parentheses
 
 Insert a single space before an open parenthesis, unless the pair of parentheses are empty.
